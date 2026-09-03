@@ -1,0 +1,53 @@
+
+
+.nav-description{
+    
+    font-size: 1.25rem;
+}
+.nav-content h1{
+    line-height: 1.2;
+    margin-bottom: 30px;
+}
+
+.container{
+    justify-content: center;
+    text-align: center;
+}
+.container h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+.container p{
+    max-width: 888px;
+    height: 54px;
+    margin: 0 160px;
+}
+.cards{
+    
+ display: grid;
+ grid-template-columns: repeat(4, 1fr);
+ gap: 20px;
+}
+.card{
+    max-width: 270px;
+    height: 484px;
+   margin: auto 0;
+    
+}
+.card-pic{
+    max-width: 270px;
+    height: 322px;
+}
+.card h6{
+    margin-top: 30px;
+}
+.card h5{
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.btn-primary{
+    padding: 5px 80px;
+    background-color: #E95A08;
+    color: white;
+    border: none;
+}
