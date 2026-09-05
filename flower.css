@@ -1,5 +1,4 @@
-
-
+/* Nav */
 .nav-description{
     
     font-size: 1.25rem;
@@ -8,7 +7,7 @@
     line-height: 1.2;
     margin-bottom: 30px;
 }
-
+/* card section */
 .container{
     justify-content: center;
     text-align: center;
@@ -50,4 +49,27 @@
     background-color: #E95A08;
     color: white;
     border: none;
+}
+
+/* hero */
+.hero{
+    max-width:1140px;
+    height: 579px;
+    margin: 210px 150px;
+    align-items: center;
+    justify-items: center;
+    
+}
+.content{
+  width: 540px; 
+  height: 521px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 38px;
+  padding-left: 60px;
+  
+}
+.hero-title{
+    font-size: 50px;
+    font-weight: 700;
 }
